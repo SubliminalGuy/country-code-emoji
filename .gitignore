@@ -2,3 +2,6 @@ coverage
 lib
 types
 *.log
+node_modules
+
+
